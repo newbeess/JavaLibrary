@@ -1,3 +1,5 @@
+package com.elephant.util;
+
 public class TwoTuple<A,B> {
 	public final A first;
 	public final B second;
