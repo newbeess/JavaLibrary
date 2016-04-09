@@ -1,5 +1,4 @@
-
-package net.mindview.util;
+package com.elephant.util;
 import java.util.*;
 // Pretty-printer for collections
 public class PPrint {
